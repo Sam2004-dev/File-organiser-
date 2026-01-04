@@ -1,4 +1,12 @@
-# File-organiser-
+# File Organizer Project
 
+This is my first Python project.
+It organizes files into folders based on file type.
 
-This is a file organiser app which organises your files according to their types in different folders you just need to enter the path.It will do it in less than 5 seconds no matter how much files there is 
+## Features
+- Organizes Images, Videos, Documents, Audios
+- Simple GUI using Tkinter
+- Beginner-friendly project
+
+## How to Run
+python file_organizer.py
